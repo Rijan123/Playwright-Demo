@@ -1,0 +1,36 @@
+{
+  "validUser": {
+    "username": "asura@gmail.com",
+    "password": "Asura#123"
+  },
+  "invalidUser": {
+    "username": "incorrectusername",
+    "password": "incorrectpassword"
+  },
+  "contactDetails": {
+    "firstName": "Harry",
+    "lastName": "Maguire",
+    "birthdate": "1988-06-12",
+    "email": "harry@gmail.com",
+    "phone": "9845154578",
+    "street1": "Astork",
+    "street2": "Boston",
+    "city": "London",
+    "stateProvince": "Province 2",
+    "postalCode": "425458",
+    "country": "England"
+  },
+  "invalidContactDetails": {
+    "firstName": "",
+    "lastName": "",
+    "birthdate": "",
+    "email": "",
+    "phone": "",
+    "street1": "",
+    "street2": "",
+    "city": "",
+    "stateProvince": " 2",
+    "postalCode": "",
+    "country": ""
+  }
+}
